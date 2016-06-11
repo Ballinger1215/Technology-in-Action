@@ -1,0 +1,42 @@
+﻿body {
+  margin-top: 70px;
+}
+
+.table-responsive > .table
+{
+  background-color: transparent;
+}
+
+.dropdown-menu > .disabled > a,
+.dropdown-menu > .disabled > a:focus,
+.dropdown-menu > .disabled > a:hover {
+  color: #999;
+}
+
+.panel-heading {
+background: #E7EFC1 !important;
+}
+
+ul.nav li a, ul.nav li a:visited {
+    color: #594f4f !important;
+}
+
+ul.nav li a:hover, ul.nav li a:active {
+    color: #9de0ad !important;
+}
+
+ol.breadcrumb li a:hover, ol.breadcrumb li a:active {
+    color: #9de0ad !important;
+}
+
+a {
+  color: #547980 !important;
+}
+
+a a:hover {
+  color: #9de0ad !important;
+}
+
+.panel-info {
+  color: #594f4f !important;
+}
